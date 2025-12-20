@@ -29,5 +29,7 @@ The project simulates basic banking operations such as account creation, login, 
 ## Data Files
 - The program uses text files for persistent storage:
   -user.txt-Stores the account number to be used. Already uploaded.
+  <br>
   -Bank.txt-Stores account details. Automatically created at runtime. 
+  <br>
   -TransactionHistory.txt-Stores transaction records. Automatically created at runtime.
